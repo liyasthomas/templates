@@ -1,10 +1,10 @@
 {
-  "name": "pineapple-notes",
+  "name": "templates",
   "repository": {
     "type": "git",
-    "url": "https://github.com/liyasthomas/pineapple-notes.git"
+    "url": "https://github.com/liyasthomas/templates.git"
   },
-  "description": "A simple, clean note app by Liyas Thomas",
+  "description": " My collection of reusable templates and assets by Liyas Thomas",
   "author": "@liyasthomas",
   "version": "1.0.0",
   "devDependencies": {
