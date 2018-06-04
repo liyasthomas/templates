@@ -1,0 +1,18 @@
+{
+	"name": "Saap",
+	"short_name": "Saap",
+	"description": "Virtual and Augmented reality for everyone",
+	"scope": "/lvr/",
+	"start_url": "/lvr/",
+	"display": "fullscreen",
+	"orientation": "any",
+	"theme_color": "#fff",
+	"background_color": "#fff",
+	"icons": [
+		{
+			"src": "assets/images/favicon.png",
+			"sizes": "512x512",
+			"type": "image/png"
+    }
+	]
+}
