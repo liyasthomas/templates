@@ -40,10 +40,10 @@ workbox.routing.registerRoute(
 );
 
 workbox.precaching.precacheAndRoute([
-    '/lvr/assets/css/style.min.css',
-    '/lvr/assets/js/script.min.js',
+    '/templates/assets/css/style.min.css',
+    '/templates/assets/js/script.min.js',
 	{
-		url: '/lvr/index.html',
+		url: '/templates/index.html',
 		revision: '383676'
 	},
 ]);
