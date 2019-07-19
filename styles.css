@@ -36,6 +36,6 @@ textarea,
 select,
 button {
 	color: inherit;
-	font: inherit;
 	letter-spacing: inherit;
+	font: inherit;
 }
